@@ -1,0 +1,12 @@
+.header-bg{
+    background-image: url(../imgs/headerbg.png);
+    background-size: cover;
+    height: 27rem;
+}
+
+.container-hd{
+    padding-left: 8.0em;
+    padding-right: 8.0em;
+    padding-top: 7.0em;
+
+}
